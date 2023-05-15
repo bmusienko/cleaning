@@ -688,24 +688,24 @@ ul {
         width: 100%;
     }
     .change-work .wrap-plus.one {
-        top: 48%;
-        left: 30%;
+        top: 54%;
+        left: 28%;
     }
     .change-work .wrap-plus.two {
-        top: 66%;
+        top: 70%;
         left: 26%;
     }
     .change-work .wrap-plus.three {
-        top: 69%;
+        top: 73%;
         left: 43%;
     }
     .change-work .wrap-plus.four {
-        top: 61%;
+        top: 65%;
         left: 61%;    
     }
     .change-work .wrap-plus.five {
         right: 6%;
-        bottom: 21%;   
+        bottom: 18%;   
     }
     .change-work .wrap-plus.six {
         right: 37%;
@@ -739,19 +739,19 @@ ul {
         margin-top: 0;
     }
     .change-work .wrap-plus.one {
-        top: 52%;
+        top: 58%;
         left: 26%;
     }
     .change-work .wrap-plus.two {
-        top: 68%;
+        top: 72%;
         left: 23%;
     }
     .change-work .wrap-plus.three {
-        top: 71%;
+        top: 75%;
         left: 41%;
     }
     .change-work .wrap-plus.four {
-        top: 61%;
+        top: 68%;
         left: 61%;    
     }
     .change-work .wrap-plus.five {
@@ -789,26 +789,56 @@ ul {
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 489px) {
     .change-work .wrap-plus.one {
-        top: 59%;
-        left: 27%;
+        top: 76%;
+        left: 23%;
     }
     .change-work .wrap-plus.two {
-        top: 72%;
-        left: 21%;
+        top: 64%;
     }
     .change-work .wrap-plus.three {
-        top: 75%;
+        top: 77%;
         left: 40%;
     }
     .change-work .wrap-plus.four {
-        top: 68%;
+        top: 73%;
+        left: 59%;  
+    }
+    .change-work .wrap-plus.five {
+        right: 4%;
+        bottom: 12%;  
+    }
+    .change-work .wrap-plus.six {
+        right: 32%;
+        bottom: 4%; 
+    }
+    .change-work .wrap-plus.seven {
+        left: 14%;
+        bottom: -2%; 
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .change-work .wrap-plus.one {
+        top: 70%;
+        left: 27%;
+    }
+    .change-work .wrap-plus.two {
+        top: 80%;
+        left: 21%;
+    }
+    .change-work .wrap-plus.three {
+        top: 81%;
+        left: 40%;
+    }
+    .change-work .wrap-plus.four {
+        top: 76%;
         left: 58%;   
     }
     .change-work .wrap-plus.five {
         right: 3%;
-        bottom: 13%;  
+        bottom: 9%;  
     }
     .change-work .wrap-plus.six {
         right: 32%;
